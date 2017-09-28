@@ -1,5 +1,7 @@
 # bitcore-build-mue
 
+[![NPM](https://nodei.co/npm/bitcore-build-mue.png?compact=true)](https://npmjs.org/package/bitcore-build-mue)
+
 A helper to add tasks to gulp.
 
 ## Getting started
