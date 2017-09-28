@@ -11,7 +11,9 @@
     "url": "https://github.com/muecoin/bitcore-build-mue"
   },
   "keywords": [
-    "bitcore"
+    "bitcore",
+    "monetaryunit",
+    "mue"
   ],
   "contributors": [
     {
