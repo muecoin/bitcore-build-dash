@@ -11,3 +11,4 @@ coverage
 .idea
 .editorconfig
 node_modules
+.coveralls.yml
