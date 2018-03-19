@@ -71,5 +71,8 @@
     "plato": "^1.7.0",
     "run-sequence": "^1.2.2",
     "zuul": "^3.11.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.0"
   }
 }

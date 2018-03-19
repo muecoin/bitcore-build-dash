@@ -224,7 +224,7 @@ function startGulp(name, opts) {
 
   gulp.task('release:install', function() {
     return shell.task([
-      'npm install',
+      'npm install'
     ]);
   });
 

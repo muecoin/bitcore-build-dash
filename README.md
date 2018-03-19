@@ -1,6 +1,7 @@
 # bitcore-build-mue
 
-[![NPM](https://img.shields.io/npm/v/bitcore-lib-mue.svg?style=flat-square)](https://npmjs.org/package/bitcore-build-mue)
+[![NPM](https://img.shields.io/npm/v/bitcore-build-mue.svg?style=flat-square)](https://npmjs.org/package/bitcore-build-mue)
+[![Build Status](https://travis-ci.org/muecoin/bitcore-build-mue.svg?branch=master)](https://travis-ci.org/muecoin/bitcore-build-mue)
 [![Coverage Status](https://coveralls.io/repos/github/muecoin/bitcore-build-mue/badge.svg?branch=master)](https://coveralls.io/github/muecoin/bitcore-build-mue?branch=master)
 
 A helper to add tasks to gulp.
