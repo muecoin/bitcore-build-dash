@@ -9,14 +9,14 @@ A helper to add tasks to gulp.
 Install with:
 
 ```sh
-npm install bitcore-build-mue
+npm install @monetaryunit/bitcore-build-mue
 ```
 
 and use and require in your gulp file: 
 
 ```javascript
 var gulp = require('gulp');
-var bitcoreTasks = require('bitcore-build-mue');
+var bitcoreTasks = require('@monetaryunit/bitcore-build-mue');
 
 bitcoreTasks('submodule');
 gulp.task('default', ['lint', 'test', 'browser', 'coverage']);
@@ -27,7 +27,7 @@ gulp.task('default', ['lint', 'test', 'browser', 'coverage']);
 * There's no default task to allow for each submodule to set up their own configuration
 * If the module is node-only, avoid adding the browser tasks with:
 ```javascript
-var bitcoreTasks = require('bitcore-build-mue');
+var bitcoreTasks = require('@monetaryunit/bitcore-build-mue');
 bitcoreTasks('submodule', {skipBrowsers: true});
 ```
 
