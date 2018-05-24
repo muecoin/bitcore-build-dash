@@ -1,6 +1,6 @@
 {
   "name": "@monetaryunit/bitcore-build-mue",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "A helper for common tasks to build bitcore-mue modules'",
   "main": "index.js",
   "scripts": {
