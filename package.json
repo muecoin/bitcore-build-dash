@@ -1,5 +1,5 @@
 {
-  "name": "@monetaryunit/bitcore-build-mue",
+  "name": "bitcore-build-mue",
   "version": "0.10.0",
   "description": "A helper for common tasks to build bitcore-mue modules'",
   "main": "index.js",
